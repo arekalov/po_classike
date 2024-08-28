@@ -1,2 +1,11 @@
-Проект команды "По классике" по кейсу от "Directum" в рамках хактона "izh.it".
-Для корректной работы необходимо создать в директории папки "photos" и "pipeline_photos" и поменять пути к папкам в коде.
+# The best offiece worker's helper bot
+A project by the “Po klassike” team based on a case from “Directum” as part of the “izh.it” hackthon.
+For correct operation, you need to create the “photos” and “pipeline_photos” folders in the directory and change the paths to the folders in the code.
+
+Technologies: 
+- OpenCv
+- Natashsa
+- ScikitLearn
+- Pandas
+- Numpy
+- PyTelegramBotApi
